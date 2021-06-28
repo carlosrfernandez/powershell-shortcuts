@@ -1,4 +1,4 @@
-Import-Module 'C:\Development\src\posh-git\src\posh-git.psd1'
+Import-Module posh-git
 
 function Set-PoshGitPrompt {
     # DefaultPromptPath bit from https://github.com/dahlbyk/posh-git/wiki/Customizing-Your-PowerShell-Prompt
