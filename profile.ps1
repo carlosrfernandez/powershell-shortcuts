@@ -23,7 +23,7 @@ function Get-GitFetchAll{
 }
 
 function Get-GitPullOriginMaster{
-    git pull origin master -r
+    git pull origin main -r
 }
 
 function Get-GitAddAll{
